@@ -1,4 +1,4 @@
-# AON
+# All or Nothing (AON)
 All or Nothing (AON): play a slice, win a pizza! (for teens &amp; adults)
 
 Each player tries to complete a 12-slice pizza by adding or removing slices. In this simple arithmetic game, all age-groups can have quick fun. 
