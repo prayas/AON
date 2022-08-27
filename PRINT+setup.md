@@ -1,6 +1,6 @@
 ## Cards
 
-In the cards.pdf(https://www.dropbox.com/s/kgrizxi9bx15j7v/cards.pdf?dl=0) file, all the cards are present. Print as many copies of each card as present in the file. All the cards have a common back — avilable in this file  (https://www.dropbox.com/s/cvxal8rzxzdseof/card-back.pdf?dl=0)
+In the cards.pdf(https://www.dropbox.com/s/kgrizxi9bx15j7v/cards.pdf?dl=0) file, all the cards are present. Print as many copies of each card as present in the file. All the cards have a common back — available in this file  (https://www.dropbox.com/s/cvxal8rzxzdseof/card-back.pdf?dl=0)
 
 ## Tally
 
