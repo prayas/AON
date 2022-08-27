@@ -1,5 +1,5 @@
 # Rules
 
-![Image2](https://user-images.githubusercontent.com/27791/187026238-d008263c-5ef5-4a33-933a-67bda17f5d9b.png)
+![rules_Page_2](https://user-images.githubusercontent.com/27791/187026332-3e5a58ce-b7f2-4eab-91de-c08e4ce187e1.png)
 
-![Image2](https://user-images.githubusercontent.com/27791/187026246-58ce69f6-cd81-48f6-8be1-9defb54d0aa5.png)
+![rules_Page_1](https://user-images.githubusercontent.com/27791/187026334-ffb5c11b-cbc0-4314-ac4c-feab9b55ecde.png)
