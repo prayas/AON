@@ -44,8 +44,8 @@ the player who played it.
 
 The game can be played in two ways depending on your mood 
 
-> Simple: Hold 4 cards in your hand. Experience the joy of quick addition and subtraction (without knowing the other player’s cards). Suitable for kids and those who can’t wait long for their pizza. 
-> Challenge: Place your 4 cards face-up, for other players to see. Knowing everyone’s card means 
+> **Simple**: Hold 4 cards in your hand. Experience the joy of quick addition and subtraction (without knowing the other player’s cards). Suitable for kids and those who can’t wait long for their pizza. 
+> **Challenge**: Place your 4 cards face-up, for other players to see. Knowing everyone’s card means 
 you have to plan ahead to win, but it also means more points.
 
 **Examples**
