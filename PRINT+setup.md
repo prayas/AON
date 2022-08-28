@@ -19,3 +19,5 @@ Double order card = 1 card,
 Total = 48 cards per set.
 
 Each player should always have 4 cards at a time in their hand. 
+
+So they one card and pick one. 
